@@ -289,7 +289,7 @@ Choose one:
 
 ***
 
-# 🧭 How to Use These Projects (Important)
+# How to Use These Projects (Important)
 
 Don’t just build — **iterate like a professional**:
 
@@ -298,14 +298,3 @@ Don’t just build — **iterate like a professional**:
 3.  Add features
 4.  Add error handling
 5.  Write tests
-
-***
-
-If you want this turned into:
-
-*   ✅ a **PDF**
-*   ✅ a **Notion / Markdown doc**
-*   ✅ a **GitHub README**
-*   ✅ or a **printable checklist**
-
-Just say the format.
